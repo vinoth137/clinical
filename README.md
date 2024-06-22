@@ -1,2 +1,2 @@
 # clinical
-Code packages related to clinical development
+Code packages that can optimize clinical data management, data analytics and CDISC SDTM / AdAM mappings. 
